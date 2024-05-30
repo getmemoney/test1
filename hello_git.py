@@ -1,2 +1,1 @@
-print('hello git world')
-print('第一次提交')
+print('今天是2024.5.30')
